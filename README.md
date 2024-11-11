@@ -1,16 +1,39 @@
-## Hi there 👋
-
-<!--
-**wizdoux/wizdoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Cabeçalho -->
+<div align="center">
+  <h4>
+    Olá, Humano!👋
+  </h4>
+</div>
+<div>
+  <h2>
+    ⁉ Quem sou eu?
+  </h2>
+  <ul>
+    <li>
+      🙋‍♂️ Meu nome é
+      <b>
+        Alan
+      </b>
+      ! ou Alan Christian...
+    </li>
+    <li>
+      📚 Atualmente, estou estudando programação em geral, mas já trabalhei
+      em pequenos projetos em diferentes empresas, como desenvolvedor FullStack,
+      backend ou frontend.
+    </li>
+    <li>
+      🤖 Eu gosto de bots/robôs
+    </li>
+    <li>
+      📫 Estou procurando colaborar em seu projeto
+    </li>
+  </ul>
+</div>
+<div align="center">
+  <hr>
+  Feito com 📚 por
+  <b>
+    A's
+  </b>
+  !
+</div>
