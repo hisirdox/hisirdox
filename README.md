@@ -6,7 +6,7 @@
 
 <div align="center">
  <b> Olá, Humano!👋 </b> ! 
-</div>
+</div> <br>
 
 [//]: <> (Just some biography stuff, meh ;-;)
 [//]: <> (People like to read those, i guess...)
