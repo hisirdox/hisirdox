@@ -37,9 +37,10 @@
 [//]: <> (Hacking the img shields 👀)
 
 ![My Custom Logo hahaha >:D](https://img.shields.io/badge/Linguagem-C-0000FF?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Java-FF0000?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/MySql-FFD700?style=for-the-badge)
+![My Custom Logo hahaha >:D](https://img.shields.io/badge/🦊-Javascript-FFFF00?style=for-the-badge)
+![My Custom Logo hahaha >:D](https://img.shields.io/badge/☕️-Java-FF0000?style=for-the-badge)
+![My Custom Logo hahaha >:D](https://img.shields.io/badge/MySql-🐘-FFD700?style=for-the-badge)
+![My Custom Logo hahaha >:D](https://img.shields.io/badge/Python-🐍-0000FF?style=for-the-badge)
 
 [//]: <> (Call me or whatever)
 
