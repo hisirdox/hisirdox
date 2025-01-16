@@ -22,15 +22,11 @@
 
 **Contato:**
 
-[#ProtonMail](mailto:wizdoux@proton.me) <br>
-[#LinkedIn](https://www.linkedin.com/in/wizdoux)
-
-[//]: <> (A signature to finish it...)
+[#Email](mailto:wizdoux@proton.me) <br>
+[#Linkedin](https://www.linkedin.com/in/wizdoux)
 
 <hr>
 <div align="center">
 Feito com 📚 por <b> A's </b> ! 
 </div>
 <hr>
-
-[//]: <> (The author Alan Christian disconected from the chat.)
