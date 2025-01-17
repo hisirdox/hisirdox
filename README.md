@@ -1,32 +1,30 @@
 <hr>
 
-## -> Alan Christian
+## Alan Christian
 
-- 🐺 Bacharel em Sistemas de Informação 
-- 💙 Programador Fullstack 
-- 📫 Procurando colaborar em projetos
-- 📚 Atualmente, estou estudando programação em geral,
-  mas já trabalhei em pequenos projetos em diferentes empresas,
-  como desenvolvedor fullstack, backend ou frontend.
+- Bacharel em Sistemas de Informação
+- Programador Fullstack
+- Colaborando em Projetos
+- Atualmente estudando programação em geral
 
+### Tech Stack
 
-### #Techs
+![C](https://img.shields.io/badge/Lang-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[//]: <> (Hacking the img shields 👀)
+## Contato
 
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Linguagem-C-0000FF?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Javascript-🦊-FFFF00?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Java-☕️-FF0000?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/MySql-🐘-FFD700?style=for-the-badge)
-![My Custom Logo hahaha >:D](https://img.shields.io/badge/Python-🐍-0000FF?style=for-the-badge)
-
-**Contato:**
-
-[#Email](mailto:wizdoux@proton.me) <br>
-[#Linkedin](https://www.linkedin.com/in/wizdoux)
+[#email](mailto:wizdoux@proton.me) | [#linkedin](https://www.linkedin.com/in/wizdoux)
 
 <hr>
 <div align="center">
-Feito com 📚 por <b> A's </b> ! 
+Feito com 📚 por <b> A's </b>!
 </div>
 <hr>
