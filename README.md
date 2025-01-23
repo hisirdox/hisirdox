@@ -1,5 +1,3 @@
-<hr>
-
 ## Alan Christian
 
 - Bacharel em Sistemas de Informação
@@ -9,22 +7,28 @@
 
 ### Tech Stack
 
-![C](https://img.shields.io/badge/Lang-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Contato
-
-[#email](mailto:wizdoux@proton.me) | [#linkedin](https://www.linkedin.com/in/wizdoux)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <hr>
-<div align="center">
-Feito com 📚 por <b> A's </b>!
-</div>
-<hr>
+
+```
+[alan@nixos:~]$ ./bash-scripts/pfetch.sh 
+
+       /\         alan@nix
+      /  \        os      NixOS 24.11 (Vicuna)
+     /\   \       shell   bash
+    /      \      editor  neovim
+   /   ,,   \     de      Budgie:GNOME
+  /   |  |  -\
+ /_-''    ''-_\                
+
+```
+
+<hr>                    
