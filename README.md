@@ -4,7 +4,7 @@ Bacharel em Sistemas de Informação
 
 Programador Fullstack
 
-Entusiasta de software livre
+Criador de software livre
 
 ### Tech
 
@@ -16,12 +16,14 @@ Entusiasta de software livre
 
 ### Setup
 
-```       
-       /\         alan@nix
-      /  \        os      NixOS 24.11 (Vicuna)
-     /\   \       shell   bash
-    /      \      editor  neovim
-   /   ,,   \     de      i3wm
-  /   |  |  -\
- /_-''    ''-_\                
+```
+ 
+    ___       alan@nixos
+   (.. |      host    82MF IdeaPad 3 15ALC6
+   (<> |      shell   bash
+  / __  \     editor  neovim
+ ( /  \ /|    de      i3
+_/\ __)/_)
+\/-____\/
+             
 ```
