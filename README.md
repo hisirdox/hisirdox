@@ -18,11 +18,11 @@ Criador de software livre
 
 ```
  
-    ___       alan@nixos
+    ___       alan@nix
    (.. |      host    82MF IdeaPad 3 15ALC6
    (<> |      shell   bash
   / __  \     editor  neovim
- ( /  \ /|    de      i3
+ ( /  \ /|    de      Hyprland
 _/\ __)/_)
 \/-____\/
              
