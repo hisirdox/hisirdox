@@ -22,7 +22,7 @@ Criador de software livre
    (.. |      host    82MF IdeaPad 3 15ALC6
    (<> |      shell   bash
   / __  \     editor  neovim
- ( /  \ /|    de      Hyprland
+ ( /  \ /|    de      i3
 _/\ __)/_)
 \/-____\/
              
