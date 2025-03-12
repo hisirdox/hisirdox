@@ -1,4 +1,5 @@
 ```
+
              ＿＿     
 　　 　　　/＞　    フ   
 　　　　　| 　_　 _ |        [ wizdoux ]
@@ -9,6 +10,7 @@
 　／￣|　　 |　|　|       editor     neovim 
 　| (￣ヽ＿_ヽ_)__)       wm            i3 
 　＼二つ
+
 ```
 
 ## Alan Christian
