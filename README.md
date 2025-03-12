@@ -4,10 +4,10 @@
 　　　　　| 　_　 _ |        [ wizdoux ]
 　 　　　／     _  ノ      
 　　 　 /　　　 　 |         host    ideapad 3
-　　　 /　 ヽ　　 ﾉ          os      nixos
-　 　 │　　|　|　|           shell   bash 
-　／￣|　　 |　|　|          editor  neovim 
-　| (￣ヽ＿_ヽ_)__)          wm      i3 
+　　　 /　 ヽ　　 ﾉ          os          nixos
+　 　 │　　|　|　|           shell        bash 
+　／￣|　　 |　|　|          editor     neovim 
+　| (￣ヽ＿_ヽ_)__)          wm            i3 
 　＼二つ
 ```
 
