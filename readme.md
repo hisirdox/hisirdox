@@ -1,4 +1,4 @@
-# Dev Fullstack
+# Software developer
 
 ![Static Badge](https://img.shields.io/badge/shell-4EAA25?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge)
