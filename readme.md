@@ -4,7 +4,7 @@ Desenvolvedor de Software
 
 
 ▄   ▄            host   ideapad 3
-█▀█▀█            user   wizdoux
+█▀█▀█            user   hisirdox
 █▄█▄█  ▄         os     nixos
  ███  █ █        shell  bash
  ████   █        editor neovim
