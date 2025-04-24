@@ -1,14 +1,13 @@
-```
+```bash
 Bacharel em Sistemas de Informação
 Desenvolvedor de Software
 
-
-▄   ▄            host   ideapad 3
-█▀█▀█            user   hisirdox
-█▄█▄█  ▄         os     nixos
- ███  █ █        shell  bash
- ████   █        editor neovim
- ████▀▀▀         wm     i3
+▄   ▄            user    hisirdox
+█▀█▀█            host    ideapad 3
+█▄█▄█  ▄         editor  neovim
+ ███  █ █        shell   bash
+ ████   █        os      nix
+ ████▀▀▀         wm      i3
 ```
 ![Static Badge](https://img.shields.io/badge/shell-4EAA25?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge)
