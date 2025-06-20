@@ -1,7 +1,4 @@
-```bash
-Bacharel em Sistemas de Informação
-Desenvolvedor de Software
-
+```
 ▄   ▄            user    hisirdox
 █▀█▀█            host    ideapad 3
 █▄█▄█  ▄         editor  neovim
